@@ -1,0 +1,32 @@
+/* Your CSS code goes in this file. */
+
+body {
+  margin: 10px auto;
+  width: 960px;
+}
+
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 18px;
+}
+
+h1 {font-size: 2.5em; font-weight: bold;}
+h2 {font-size: 2.0em; font-weight: bold;}
+h3 {font-size: 1.5em; font-weight: bold;}
+
+h3{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-bottom: solid 4px gray
+}
+
+body {
+  line-height: 1.5em;
+}
+
+img {
+  float: right;
+  box-shadow: 8px 8px 4px #AAA;
+}
+
+div { border: solid 1px red; padding: 12px; }
